@@ -1,5 +1,3 @@
-# links
-<a href="https://www.w3schools.com" target="_blank">w3schools</a>
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
